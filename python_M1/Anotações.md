@@ -22,6 +22,6 @@ Uma variaves pode receber um valor utilizando o sinal de =.
 
 - Crie um script python que leia o nome de uma pessoa e mostre uma mensagem de boas vindas de acordo com o valor digitado.
 
-(Exerc_01.py
+[exerc_01.py](exerc_01.py)
 
 ## [Anotações aula 06](https://youtu.be/hdDHg1p3YVc)
