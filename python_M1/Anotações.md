@@ -1,7 +1,7 @@
 # Anotações: Python Mundo 01
 
 
-## [Anotações aula 04](https://youtu.be/31llNGKWDdo)
+## [Anotações aula 04 - primeiros comandos em python 3](https://youtu.be/31llNGKWDdo)
 
 Em python se os dados forem mensagens eles tem delimitadores especiais.
 
@@ -36,4 +36,34 @@ Crie um script python que leia dois números e tente mostrar a soma entre eles.
 
 - [exerc_03.py](exerc_03.py)
 
-## [Anotações aula 06](https://youtu.be/hdDHg1p3YVc)
+## [Anotações aula 06 - tipos primitivos e saída de dados](https://youtu.be/hdDHg1p3YVc)
+
+int() = Aceita números inteiros
+
+Ex: 1,2,3,4,5,6,7
+
+    msg = int(input('adicione um número: '))
+
+float() = Aceita números reais
+
+Ex: 4.5, 3.6, 7.8, 9.8
+
+    msg = float(input('adicione um número: ))
+
+bool() = Só aceita dois valores "True" ou "False"
+
+Ex: True, False
+
+    msg = bool(input('adicione um valor: '))
+
+str() = aceita letras e caracteres que estejam apenas entre ('')
+
+Ex: 'oi', '7.5', '??:>:?W'
+
+    msg = srt(input('Informe seu nome: '))
+
+### Desafio 04
+
+Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possiveis sobre ele.
+
+- [exerc_04.py](exerc_04.py)
