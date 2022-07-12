@@ -88,3 +88,7 @@ Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primiti
 |2|**
 |3|* / // %
 |4| + -
+
+### Tricks
+
+    print ('='*20)
