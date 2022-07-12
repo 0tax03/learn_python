@@ -67,3 +67,24 @@ Ex: 'oi', '7.5', '??:>:?W'
 Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possiveis sobre ele.
 
 - [exerc_04.py](exerc_04.py)
+
+## [Anotações aula 07 - Operadores Aritméticos](https://youtu.be/Vw6gLypRKmY)
+
+|Simbolo|Operador| Exemplos |
+|:---:|:----:| :-----: |
+|+|Adição| 5 + 5 = 10
+|-|Subtração| 5-2 = 3
+|*|Multiplicação| 5*5= 25
+|/|Divisão|10/2= 5
+|**|Potência|5**2= 25
+|//|Divisão inteira|5//2= 2
+|%|Resto da divisão|5%2= 1
+
+### Ordem de precedência durante as operações.
+
+|Orden|Operador
+|:---:|:----:|
+|1|()
+|2|**
+|3|* / // %
+|4| + -
