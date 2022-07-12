@@ -82,7 +82,7 @@ Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primiti
 
 ### Ordem de precedência durante as operações.
 
-|Orden|Operador
+|Ordem|Operador
 |:---:|:----:|
 |1|()
 |2|**
