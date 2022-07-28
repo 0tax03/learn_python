@@ -108,3 +108,9 @@ Para não quebrar a linha de um print para outro
 Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 
 - [exerc_05.py](exerc_05.py)
+
+### Desafio 06
+
+Crie um algoritmo que leia número e mostre o seu dobre, triplo e raiz quadrada.
+
+- [exerc_06.py](exerc_06.py)
