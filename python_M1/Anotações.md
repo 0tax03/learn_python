@@ -91,4 +91,20 @@ Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primiti
 
 ### Tricks
 
+Fazer adição de um determinado item por x vezes.
+    
     print ('='*20)
+
+Formatar casas decimais de valores float
+
+    calc = 100 * 1.135444
+    print(f"{calc:.2f}")
+
+Para não quebrar a linha de um print para outro
+
+    end=''
+### Desafio 05
+
+Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
+
+- [exerc_05.py](exerc_05.py)
